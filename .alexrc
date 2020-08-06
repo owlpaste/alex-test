@@ -1,0 +1,4 @@
+{
+  "allow": ["pop"],
+  "deny": ["try"]
+}

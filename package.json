@@ -1,0 +1,10 @@
+{
+    "name": "alex-test",
+    "version": "0.0.1",
+    "scripts": {
+        "lint-language": "alex"
+    },
+    "devDependencies": {
+        "alex": "^8.2.0"
+    }
+}
